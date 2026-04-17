@@ -3,7 +3,7 @@ ACCOUNTS=["GATKJ3MHLERAXXXNS2VGGT5HP3HSXD53THCRYCFOTYSNOBUCRNUILKYE"]
 [ORG]
 NAME="PALESTINE"
 URL="https://zaidplt22.github.io/plt/"
-LOGO="https://zaidplt22.github.io/plt/1776453663234.png"
+LOGO="https://zaidplt22.github.io/plt/logo.png"
 
 [[CURRENCIES]]
 code="PALESTINE"
@@ -12,4 +12,4 @@ display_decimals=7
 name="PALESTINE"
 desc="عملة فلسطين الرقمية - قضية وطن في عالم الرقميات"
 conditions="Testnet Currency"
-image="https://zaidplt22.github.io/plt/1776453663234.png"
+image = "https://zaidplt22.github.io/plt/logo.png"
